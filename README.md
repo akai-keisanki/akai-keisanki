@@ -5,7 +5,7 @@
 Akai Keisanki is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
 As the owner of the YouTube channel [inκ worιᴅs αrcнiτecτ (Ink Worlds Architect)](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
 
-His GitHub page currently works as a public access to his favourite code, which is really useful for downloading in other computers without logging in.
+His GitHub page currently works as a public access to his favourite code scripts, which is really useful for downloading in other computers without logging in.
 
 <h2 align="center">
 Preferred Programming Languages:
