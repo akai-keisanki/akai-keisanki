@@ -7,6 +7,8 @@ As the owner of the YouTube channel [inκ worιᴅs αrcнiτecτ (Ink Worlds Ar
 
 His GitHub page currently works as a public access to his favourite code scripts, which is really useful for downloading in other computers without logging in.
 
+- Note: Check [Science52101](https://science52101.github.io/) for more about his projects.
+
 <h2 align="center">
 Preferred Programming Languages:
 </h2>
