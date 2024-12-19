@@ -53,6 +53,7 @@ His GitHub page currently works as a public access to his favourite code scripts
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" heigth="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" heigth="50"/>
+  <img src="https://www.nasm.us/images/nasm.png" alt="NAsm" width="50" heigth="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" heigth="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="50" heigth="50"/>
   </p>
