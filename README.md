@@ -5,7 +5,7 @@
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
 
 Akai Keisanki (Iago Alves Dias) is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
-As the owner of the YouTube channel [inκ worιᴅs αrcнiτecτ (Ink Worlds Architect)](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
+As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
 
 ## About the GitHub page
 
