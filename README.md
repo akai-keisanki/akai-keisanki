@@ -86,6 +86,8 @@ His GitHub page currently works as a public access to his favourite code scripts
 
 ## Notes
 
-- Note: Check [Science52101](https://science52101.github.io/) for more about his projects.
+- Check [Science52101](https://science52101.github.io/) for more about his projects.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" heigth="20"/>: https://www.linkedin.com/in/iago-alves-dias-4426a6269/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" heigth="20"/>: <https://www.linkedin.com/in/iago-alves-dias-4426a6269>
+
+<img src="https://raw.githubusercontent.com/bluesky-social/social-app/refs/heads/main/bskyweb/static/favicon.png" alt="Blue Sky" width="20" heigth="20"/>: <https://bsky.app/profile/akaikeisanki.bsky.social>
