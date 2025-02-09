@@ -5,11 +5,18 @@
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
 
 Akai Keisanki (Iago Alves Dias) is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
-As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
 
 ## About the GitHub page
 
 His GitHub page currently works as a public access to his favourite code scripts, which is really useful for downloading in other computers without logging in.
+
+## More From Akai Keisanki
+
+- Check [Science52101's GitHub page](https://science52101.github.io/) for most of his projects.
+
+- As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
+
+- He also develops the fictional [Lhyeish Union](https://sites.google.com/view/lhyeish-union/start?authuser=6).
 
 ## Tools used
 
@@ -85,8 +92,6 @@ His GitHub page currently works as a public access to his favourite code scripts
 </table>
 
 ## Notes
-
-- Check [Science52101](https://science52101.github.io/) for more about his projects.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" heigth="20"/>: [Iago Alves Dias](https://www.linkedin.com/in/iago-alves-dias-4426a6269)
 
