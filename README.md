@@ -10,7 +10,7 @@ Akai Keisanki (Iago Alves Dias) is a young brazilian programmer focused on low-l
 
 His GitHub page currently works as a public access to his favourite code scripts, which is really useful for downloading in other computers without logging in.
 
-Please note that most of his projects are in [Science52101's GitHub Page](https://science52101.github.io/) due to organisation preferences.
+Please note that most of his projects are in [Science52101's GitHub Page](https://github.com/Science52101) due to organisation preferences.
 
 ## Tools used
 
@@ -91,7 +91,7 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 <th align="left" width="50%"> 
 <h2 align="center">More From Akai Keisanki</h2>
 
-- Check [Science52101's GitHub page](https://science52101.github.io/) for most of his projects.
+- Check [Science52101's GitHub page](https://github.com/Science52101) for most of his projects.
 
 - As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
 
