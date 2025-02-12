@@ -1,18 +1,18 @@
 # Welcome
 
-## About akai-keisanki
+## ℹ️ About akai-keisanki
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
 
 Akai Keisanki (Iago Alves Dias) is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
 
-## About the GitHub page
+### About the GitHub page
 
 His GitHub page currently works as a public access to his favourite code scripts, which is really useful for downloading in other computers without logging in.
 
 Please note that most of his projects are in [Science52101's GitHub Page](https://github.com/Science52101) due to organisation preferences.
 
-## Tools used
+## 🛠️ Tools used
 
 <table>
 <tr>
@@ -84,18 +84,18 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 </tr>
 </table>
 
-## Content:
+## 📌 Content:
 
 <table>
 <tr>
 <th align="left" width="50%"> 
 <h2 align="center">More From Akai Keisanki</h2>
 
-- Check [Science52101's GitHub page](https://github.com/Science52101) for most of his projects.
+- ‎‍💼 Check [Science52101's GitHub page](https://github.com/Science52101) for most of his projects.
 
-- As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
+- 🎵 As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
 
-- He also develops the fictional [Lhyeish Union](https://sites.google.com/view/lhyeish-union/start?authuser=6).
+- 🤓 He also develops the fictional [Lhyeish Union](https://sites.google.com/view/lhyeish-union/start?authuser=6).
 </th>
 <th align="left" width="50%">
 <h2 align="center">Links And Social</h2>
@@ -110,3 +110,10 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 </th>
 </tr>
 </table>
+
+## 💬 Contact:
+
+Akai Keisanki is a student, not an employee.
+There is still no direct contact option.
+
+For anything important related to courses, projects or communities of which he participates, contact is made through them.
