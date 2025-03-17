@@ -103,16 +103,16 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 
 <p align="center">
     
-    [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
     ](https://www.linkedin.com/in/iago-alves-dias-4426a6269)
     
-    [<img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
+[<img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
     ](https://bsky.app/profile/akaikeisanki.bsky.social)
     
-    [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
     ](https://www.instagram.com/iago.ad/)
     
-    [<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
+[<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
     ]([https://www.instagram.com/iago.ad/](https://science52101.github.io/))
     
 </p>
