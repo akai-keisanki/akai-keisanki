@@ -21,9 +21,9 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
     Preferred Programming Languages:
     </h2>
     <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" heigth="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" heigth="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" heigth="50"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"></img>
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"></img>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></img>
     </p>
 </th>
 <th width="33.33333333%">
@@ -31,8 +31,8 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
   Preferred Operating Systems:
   </h2>
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows 11" width="50" heigth="50"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white"></img>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white"></img>
   </p>
 </th>
 <th width="33.33333333%">
@@ -40,10 +40,10 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
   Preferred Editors:
   </h2>
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="NeoVim" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" heigth="50"/>
+    <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=white"></img>
+    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-57A143?logo=NeoVim&logoColor=white"></img>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS Code-blue?logo=VS Code&logoColor=white"></img>
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white"></img>
   </p>
 </th>
 </tr>
@@ -53,11 +53,11 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
   Learning:
   </h2>
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" heigth="50"/>
-  <img src="https://www.nasm.us/images/nasm.png" alt="NAsm" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="50" heigth="50"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-orangered?logo=Rust&logoColor=white"></img>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"></img>
+    <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white"></img>
+    <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=Emacs&logoColor=white"></img>
+    <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white"></img>
   </p>
 </th>
 <th width="33.33333333%">
@@ -65,10 +65,10 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
   Wishing to learn:
   </h2>
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="VB" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" alt="F#" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" alt="VB" width="50" heigth="50"/>
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=Arch%20Linux&logoColor=white"></img>
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"></img>
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white"></img>
+    <img alt="ForTran" src="https://img.shields.io/badge/ForTran-734F96?logo=ForTran&logoColor=white"></img>
   </p>
 </th>
 <th width="33.33333333%">
@@ -76,9 +76,10 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
   Other Preferred Tools:
   </h2>
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Git Hub" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="50" heigth="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" heigth="50"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></img>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"></img>
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white"></img>
+    <img alt="ReGeX" src="https://img.shields.io/badge/ReGeX-orange?logo=ReGeX&logoColor=white"></img>
   </p>
 </th>
 </tr>
@@ -100,13 +101,22 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 <th align="left" width="50%">
 <h2 align="center">Links And Social</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" heigth="20"/>: [Iago Alves Dias](https://www.linkedin.com/in/iago-alves-dias-4426a6269)
+<p align="center">
+    
+    [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
+    ](https://www.linkedin.com/in/iago-alves-dias-4426a6269)
+    
+    [<img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
+    ](https://bsky.app/profile/akaikeisanki.bsky.social)
+    
+    [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
+    ](https://www.instagram.com/iago.ad/)
+    
+    [<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
+    ]([https://www.instagram.com/iago.ad/](https://science52101.github.io/))
+    
+</p>
 
-<img src="https://raw.githubusercontent.com/bluesky-social/social-app/refs/heads/main/bskyweb/static/favicon.png" alt="Blue Sky" width="20" heigth="20"/>: [akaikeisanki.bsky.social](https://bsky.app/profile/akaikeisanki.bsky.social)
-
-<img src=":/" alt="Instagram" width="20" heigth="20"/>: [iago.ad](https://www.instagram.com/iago.ad/)
-
-<img src="https://science52101.github.io/images/logoW.png" alt="Science52101" width="20" heigth="20"/>: [Science52101 Website](https://science52101.github.io/)
 </th>
 </tr>
 </table>
