@@ -102,6 +102,7 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 <tr>
 <th align="left" width="50%"> 
 <h2 align="center">More From Akai Keisanki</h2>
+<br>
 
 - ‎‍💼 Check [Science52101's GitHub page](https://github.com/Science52101) for most of his projects.
 
@@ -112,19 +113,24 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 <th align="left" width="50%">
 <h2 align="center">Links And Social</h2>
 
-<p align="center">
-    
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
-    ](https://www.linkedin.com/in/iago-alves-dias-4426a6269)
-    
-[<img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
-    ](https://bsky.app/profile/akaikeisanki.bsky.social)
-    
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
-    ](https://www.instagram.com/iago.ad/)
-    
-[<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
-    ]([https://www.instagram.com/iago.ad/](https://science52101.github.io/))
+<p align="center" justify-content='space-evenly'>
+
+<br>
+<a href = 'https://www.linkedin.com/in/iago-alves-dias-4426a6269'>
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
+</a>
+<br><br>
+<a href = 'https://bsky.app/profile/akaikeisanki.bsky.social'>
+<img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
+</a>
+<br><br>
+<a href = 'https://www.instagram.com/iago.ad/'>
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
+</a>
+<br><br>
+<a href = 'https://science52101.github.io/'>
+<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
+</a>
     
 </p>
 
