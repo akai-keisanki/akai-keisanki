@@ -91,8 +91,8 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 
 <p align='center' width='100%'>
 
-<img alt='Stats' height=200 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>
-<img alt='Top Languages' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&layout=compact'>
+<img alt='Stats' height=170 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>
+<img alt='Top Languages' height=170 src='https://github-readme-stats.vercel.app/api/top-langs/?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&layout=compact'>
 
 </p>
 
