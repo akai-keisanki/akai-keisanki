@@ -1,16 +1,18 @@
 # Welcome
 
+<!-- This isn't the right code to judge -->
+
 ## ℹ️ About akai-keisanki
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
 
-Akai Keisanki (Iago Alves Dias) is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
+Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
 
 ### About the GitHub page
 
-His GitHub page currently works as a public access to his favourite code scripts, which is really useful for downloading in other computers without logging in.
+This GitHub page currently works as a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
 
-Please note that most of his projects are in [Science52101's GitHub Page](https://github.com/Science52101) due to organisation preferences.
+Please note that most of his projects are in [Science52101's GitHub Page](https://github.com/Science52101) due to organization preferences.
 
 ## 🛠️ Tools used
 
@@ -84,6 +86,15 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 </th>
 </tr>
 </table>
+
+## 📊 GitHub stats:
+
+<p align='center' width='100%'>
+
+<img alt='Stats' height=200 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>
+<img alt='Top Languages' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&layout=compact'>
+
+</p>
 
 ## 📌 Content:
 
