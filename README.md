@@ -102,11 +102,12 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 <h2 align="center">More From Akai Keisanki</h2>
 <br>
 
-- ‎‍💼 Check [Science52101's GitHub page](https://github.com/Science52101) for most of his projects.
+- ‎‍💼 Check <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> for most of his projects.
 
-- 🎵 As the owner of the YouTube channel [@akaikeisanki](https://www.youtube.com/@akaikeisanki), he is also a beginner musician, photographer and writer.
+- 🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
 
-- 🤓 He also develops the fictional [Lhyeish Union](https://sites.google.com/view/lhyeish-union/start?authuser=6).
+- 🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/start'>Lhyeish Union</a>).
+  
 </th>
 <th align="left" width="50%">
 <h2 align="center">Links And Social</h2>
