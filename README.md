@@ -1,20 +1,20 @@
-# Welcome
+<h1>Welcome</h1>
 
 <!-- This isn't the right code to judge -->
 
-## ℹ️ About akai-keisanki
+<h2>ℹ️ About akai-keisanki</h2>
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
 
 Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
 
-### About the GitHub page
+<h3>About the GitHub page</h3>
 
 This GitHub page currently works as a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
 
-Please note that most of his projects are in [Science52101's GitHub Page](https://github.com/Science52101) due to organization preferences.
+Please note that most of his projects are in <a href = 'https://github.com/Science52101'>Science52101's GitHub Page</a> due to organization preferences.
 
-## 🛠️ Tools used
+<h2>🛠️ Tools used</h2>
 
 <table>
 <tr>
@@ -87,27 +87,33 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 </tr>
 </table>
 
-## 📊 GitHub stats:
+<h2>📊 GitHub stats:</h2>
 
 <p align='center' width='100%'>
 <img alt='Stats' height=170 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>⠀
 <img alt='Top Languages' height=170 src='https://github-readme-stats.vercel.app/api/top-langs/?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&layout=compact'>
 </p>
 
-## 📌 Content:
+<h2>📌 Content:</h2>
 
 <table>
 <tr>
 <th align="left" width="50%"> 
 <h2 align="center">More From Akai Keisanki</h2>
 <br>
+    
+<ul>
+    <li>
+        ‎‍💼 Check <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> for most of his projects.
+    </li>
+    <li>
+    🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
+    </li>
+    <li>
+        🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/start'>Lhyeish Union</a>).
+    </li>
+</ul>
 
-- ‎‍💼 Check <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> for most of his projects.
-
-- 🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
-
-- 🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/start'>Lhyeish Union</a>).
-  
 </th>
 <th align="left" width="50%">
 <h2 align="center">Links And Social</h2>
@@ -137,7 +143,7 @@ Please note that most of his projects are in [Science52101's GitHub Page](https:
 </tr>
 </table>
 
-## 💬 Contact:
+<h1>💬 Contact:</h1>
 
 Akai Keisanki is a student, not an employee.
 There is still no direct contact option.
