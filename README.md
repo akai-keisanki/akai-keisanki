@@ -110,7 +110,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
     </li>
     <li>
-        🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/start'>Lhyeish Union</a>).
+        🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/'>Lhyeish Union</a>).
     </li>
 </ul>
 
