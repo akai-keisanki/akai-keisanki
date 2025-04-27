@@ -1,3 +1,5 @@
+<img src = './ake_logo1_bg.png' alt = 'A.Ke. Logo' />
+
 <h1>Welcome</h1>
 
 <!-- This isn't the right code to judge -->
