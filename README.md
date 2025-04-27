@@ -1,10 +1,10 @@
 <img src = './ake_logo1_bg.png' alt = 'A.Ke. Logo' />
 
-<h1>Welcome</h1>
+<h1>ℹ️ Welcome</h1>
 
 <!-- This isn't the right code to judge -->
 
-<h2>ℹ️ About akai-keisanki</h2>
+<h2>About akai-keisanki</h2>
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
 
