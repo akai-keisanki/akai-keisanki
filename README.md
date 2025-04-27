@@ -10,13 +10,13 @@
 
 Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
 
-<h3>About the GitHub page</h3>
+<h2>About the GitHub page</h2>
 
 This GitHub page currently works as a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
 
 Please note that most of his projects are in <a href = 'https://github.com/Science52101'>Science52101's GitHub Page</a> due to organization preferences.
 
-<h2>🛠️ Tools used</h2>
+<h1>🛠️ Tools used</h1>
 
 <table>
 <tr>
@@ -89,14 +89,14 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 </tr>
 </table>
 
-<h2>📊 GitHub stats:</h2>
+<h1>📊 GitHub stats:</h1>
 
 <p align='center' width='100%'>
 <img alt='Stats' height=170 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>⠀
 <img alt='Top Languages' height=170 src='https://github-readme-stats.vercel.app/api/top-langs/?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&layout=compact'>
 </p>
 
-<h2>📌 Content:</h2>
+<h1>📌 Content:</h1>
 
 <table>
 <tr>
