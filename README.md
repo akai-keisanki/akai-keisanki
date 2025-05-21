@@ -62,6 +62,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white">
     <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=Emacs&logoColor=white">
     <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-darkblue?logo=React&logoColor=#61DAFB">
   </p>
 </th>
 <th width="33.33333333%">
