@@ -85,6 +85,8 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
     <img alt="ReGeX" src="https://img.shields.io/badge/ReGeX-orange?logo=ReGeX&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML&logoColor=white">
   </p>
 </th>
 </tr>
