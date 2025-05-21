@@ -28,6 +28,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-orangered?logo=Rust&logoColor=white">
     </p>
 </th>
 <th width="33.33333333%">
@@ -57,7 +58,6 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   Learning:
   </h2>
   <p align="center">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-orangered?logo=Rust&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white">
     <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=Emacs&logoColor=white">
