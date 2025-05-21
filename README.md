@@ -59,6 +59,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   </h2>
   <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white">
     <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=Emacs&logoColor=white">
     <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white">
@@ -86,7 +87,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
     <img alt="ReGeX" src="https://img.shields.io/badge/ReGeX-orange?logo=ReGeX&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
   </p>
 </th>
 </tr>
