@@ -37,6 +37,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   </h2>
   <p align="center">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white">
   </p>
 </th>
