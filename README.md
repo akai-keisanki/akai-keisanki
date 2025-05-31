@@ -47,8 +47,8 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   </h2>
   <p align="center">
     <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=white">
-    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-57A143?logo=NeoVim&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS Code-blue?logo=VS Code&logoColor=white">
+    <img alt="NeoVim"  src="https://img.shields.io/badge/NeoVim-57A143?logo=NeoVim&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-blue?logo=VS%20Code&logoColor=white">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
   </p>
 </th>
