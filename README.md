@@ -1,6 +1,7 @@
 <img src = './ake_logo1_bg.png' alt = 'A.Ke. Logo' />
 
 ```py
+/$ sudo akai-keisanki --boot -fyv
 [    0.000000] START VIRTUAL BOOT
 [    0.000000] akai-keisanki version 7.4.0-0-default (x86_32-akai-keisanki-5 Zipf 0) Fri Feb  6 13:40:03 UTC 2009 (Zipf 7.4.0-0-default)
 [    0.000000] Command line: BOOT_IMAGE=/akai-keisanki/akai-keisanki-7.4.0-0-default [REDACTED]
