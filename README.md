@@ -38,13 +38,13 @@
 
 <h2>About akai-keisanki</h2>
 
-赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen randomly by the end of 2023.
+赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
 Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
 
 <h2>About the GitHub page</h2>
 
-This GitHub page currently works as a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
+This GitHub page currently works as a short portfolio and a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
 
 Please note that most of his projects are in <a href = 'https://github.com/Science52101'>Science52101's GitHub Page</a> due to organization preferences.
 
