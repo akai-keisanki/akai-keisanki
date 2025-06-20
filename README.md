@@ -1,5 +1,36 @@
 <img src = './ake_logo1_bg.png' alt = 'A.Ke. Logo' />
 
+```py
+[    0.000000] START VIRTUAL BOOT
+[    0.000000] akai-keisanki version 7.4.0-0-default (x86_32-akai-keisanki-5 Zipf 0) Fri Feb  6 13:40:03 UTC 2009 (Zipf 7.4.0-0-default)
+[    0.000000] Command line: BOOT_IMAGE=/akai-keisanki/akai-keisanki-7.4.0-0-default [REDACTED]
+[    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+[    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+[    0.000000] x86: Using APIC driver default
+[    0.000000] BIOS-e820: [mem 0x[REDACTED]-0x[REDACTED]] usable
+[    0.000000] ACPI: XSDT 0x[REDACTED] 000084 (v01 [REDACTED] [REDACTED] 00000001 [REDACTED] 00000001)
+[    0.000000] CPU: Vendor: [REDACTED], Model: [REDACTED], stepping [REDACTED] (arch x86_32)
+[    0.000000] PCI: Probing PCI hardware... [REDACTED] devices found
+[    0.000000] Memory: [REDACTED]MB available
+[    0.000000] Freeing unused kernel memory: 2273K
+[    0.000000] Scheduler: Activated Completely Fair Scheduler (CFS)
+[    0.000000] Command line: BOOT_IMAGE=/akai-keisanki/akai-keisanki-7.4.0-0-default [REDACTED]
+[    0.000000] Loading parameters --default --force --no-confirm --verbose
+[    0.000000] Loading default parameters Zipf 0 [REDACTED]
+[    0.000104] Installed languages: C, C++14, Rust, Python 3.12.3, Java 21.0.7, Node.js v18.19.1, NASM version 2.16.01
+[    0.000104] net: Initialized loopback interface
+[    0.000104] random: Initializing entropy pool
+[    0.000104] Updating repositories from https://github.com/akai-keisanki
+[    0.000104] Fetching data...
+[    2.036242] Up to date
+[    3.246038] Mounted /akai-keisanki/root as [REDACTED]
+[    3.246675] random: crng init done
+[    3.246356] [REDACTED]
+[    3.246357] [REDACTED]
+[    3.246675] chaos
+[    3.246675] akai-keisanki: Virtual kernel successfully initialized
+```
+
 <h1>ℹ️ Welcome</h1>
 
 <!-- This isn't the right code to judge -->
