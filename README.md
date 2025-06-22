@@ -184,7 +184,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 
 <h1>💬 Contact:</h1>
 
-Akai Keisanki is a student, not an employee.
-There is still no direct contact option.
+For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>.
+Unclear or strange interactions will likely be blocked.
 
-For anything important related to courses, projects or communities of which he participates, contact is made through them.
+For anything important related to courses, projects or communities of which he participates, contact is made through the intended means of communication.
