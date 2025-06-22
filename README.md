@@ -3,8 +3,8 @@
 ```py
 /$ sudo akai-keisanki --boot -fyv
 [    0.000000] START VIRTUAL BOOT
-[    0.000000] akai-keisanki version 7.4.0-0-default (x86_32-akai-keisanki-5 Zipf 0) Fri Feb  6 13:40:03 UTC 2009 (Zipf 7.4.0-0-default)
-[    0.000000] Command line: BOOT_IMAGE=/akai-keisanki/akai-keisanki-7.4.0-0-default [REDACTED]
+[    0.000000] Akai Keisanki version 7.4.0-0-default (x86_32-akai-keisanki-5 Zipf 0) Fri Feb  6 13:40:03 UTC 2009 (Zipf 7.4.0-0-default)
+[    0.000000] Command line: BOOT_IMAGE=/akai-keisanki/x86_32-akai-keisanki-7.4.0-0-default [REDACTED]
 [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
 [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
 [    0.000000] x86: Using APIC driver default
@@ -29,7 +29,7 @@
 [    3.246356] [REDACTED]
 [    3.246357] [REDACTED]
 [    3.246675] chaos
-[    3.246675] akai-keisanki: Virtual kernel successfully initialized
+[    3.246675] x86_32-akai-keisanki: Virtual kernel successfully initialized
 ```
 
 <h1>ℹ️ Welcome</h1>
