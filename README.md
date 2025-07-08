@@ -20,12 +20,12 @@
 [    0.000104] Installed languages: C, C++14, Rust, Python 3.12.3, Java 21.0.7, Node.js v18.19.1, NASM version 2.16.01
 [    0.000104] net: Initialized loopback interface
 [    0.000104] random: Initializing entropy pool
-[    0.000105] Updating repositories from https://github.com/akai-keisanki/*
-[    0.000105] Fetching data...
-[    2.036242] Up to date
+[    0.000105] ak-update: Updating repositories from https://github.com/akai-keisanki/*
+[    0.000105] ak-update: Fetching data...
+[    2.036242] ak-update: Up to date
 [    3.246038] Mounted /ak/root as [REDACTED]
 [    3.246675] random: crng init done
-[    3.246356] [REDACTED]
+[    3.246356] [REDACTED]: Initializing [REDACTED]
 [    3.246357] [REDACTED]
 [    3.246675] chaos
 [    3.246675] x86_32-akai-keisanki: Virtual kernel successfully initialized
