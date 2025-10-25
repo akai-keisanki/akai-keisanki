@@ -1,4 +1,4 @@
-<img src = './ake_logo1_bg.png' alt = 'A.Ke. Logo' />
+<img src = 'https://raw.githubusercontent.com/akai-keisanki/akai-keisanki/refs/heads/All/ake_logo1_bg.png' alt = 'A.Ke. Logo' />
 
 ```py
 /$ sudo akai-keisanki --boot -fyv
@@ -167,12 +167,16 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 <img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
 </a>
 <br><br>
-<a href = 'https://www.instagram.com/iago.ad/'>
+<a href = 'https://www.instagram.com/iago.ad'>
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
 </a>
 <br><br>
-<a href = 'https://science52101.github.io/'>
+<a href = 'https://science52101.github.io'>
 <img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
+</a>
+<br><br>
+<a href = 'https://akaikeisanki.bandcamp.com'>
+<img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-akaikeisanki-408294?logo=Bandcamp&logoColor=white">
 </a>
     
 </p>
@@ -187,3 +191,4 @@ For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>
 Unclear or strange interactions will likely be blocked.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the intended means of communication.
+
