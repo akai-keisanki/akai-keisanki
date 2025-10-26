@@ -39,7 +39,9 @@
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
-Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a young brazilian programmer focused on low-level tasks, experimenting and mathematics.
+Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a second year high school student, self-taught in foreign languages and mathematics and a programmer focused on low-level tasks, experimenting and mathematical applications.
+
+He has an aptitude for exact sciences, such as mathematics and computer science, which gave him experience as a monitor and medals in knowledge olympiads.
 
 <h2>About the GitHub page</h2>
 
@@ -174,7 +176,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
         ‎‍💼 Check <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> for most of his projects.
     </li>
     <li>
-    🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
+        🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
     </li>
     <li>
         🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/'>Lhyeish Union</a>).
@@ -200,12 +202,12 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
 </a>
 <br><br>
-<a href = 'https://science52101.github.io'>
-<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
-</a>
-<br><br>
 <a href = 'https://akaikeisanki.bandcamp.com'>
 <img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-akaikeisanki-408294?logo=Bandcamp&logoColor=white">
+</a>
+<br><br>
+<a href = 'https://science52101.github.io'>
+<img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
 </a>
     
 </p>
@@ -220,5 +222,6 @@ For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>
 Unclear or strange interactions will likely be blocked.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the intended means of communication.
+
 
 
