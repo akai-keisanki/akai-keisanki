@@ -35,21 +35,19 @@
 
 <!-- This isn't the right code to judge -->
 
-<h2>About akai-keisanki</h2>
+<h2>About <code>akai-keisanki</code></h2>
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
-Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a second year high school student, self-taught in foreign languages and mathematics and a programmer focused on low-level tasks, experimenting and mathematical applications.
+Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a 2nd year high school student, self-taught in foreign languages and mathematics and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads and experience as a monitor and as a scholarship holder.
 
-He has an aptitude for exact sciences, such as mathematics and computer science, which gave him experience as a monitor and medals in knowledge olympiads.
-
-<h2>About the GitHub page</h2>
+<h2>About This GitHub Page</h2>
 
 This GitHub page currently works as a short portfolio and a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
 
 Please note that most of his projects are in <a href = 'https://github.com/Science52101'>Science52101's GitHub Page</a> due to organization preferences.
 
-<h1>🛠️ Tools used</h1>
+<h1>🛠️ Used Tools</h1>
 
 <table>
 <tr>
@@ -156,7 +154,7 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 </tr>
 </table>
 
-<h1>📊 GitHub stats:</h1>
+<h1>📊 GitHub Stats:</h1>
 
 <p align='center' width='100%'>
 <img alt='Stats' height=170 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>⠀
@@ -221,7 +219,4 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>.
 Unclear or strange interactions will likely be blocked.
 
-For anything important related to courses, projects or communities of which he participates, contact is made through the intended means of communication.
-
-
-
+For anything important related to courses, projects or communities of which he participates, contact is made through the internally intended means of communication.
