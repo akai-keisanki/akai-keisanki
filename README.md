@@ -53,47 +53,91 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 <tr>
 <th width="33.33333333%"> 
     <h2 align="center">
-    Preferred Programming Languages:
+    Most Used Programming Languages:
     </h2>
     <p align="center">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-orangered?logo=Rust&logoColor=white">
     </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Preferred Operating Systems:
+  Most Used Operating Systems:
   </h2>
   <p align="center">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=dotnet&logoColor=white">
   </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Preferred Editors:
+  Most Used Editors:
+  </h2>
+  <p align="center">
+    <img alt="NeoVim"  src="https://img.shields.io/badge/NeoVim-57A143?logo=NeoVim&logoColor=white">
+  </p>
+</th>
+</tr>
+<tr>
+<th width="33.33333333%"> 
+    <h2 align="center">
+    Other Programming Languages:
+    </h2>
+    <p align="center">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white">
+    <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+    </p>
+</th>
+<th width="33.33333333%">
+  <h2 align="center">
+  Other Operating Systems:
+  </h2>
+  <p align="center">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=Fedora&logoColor=white">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white">
+    <img alt="openSUSE" src="https://img.shields.io/badge/openSUSE-73BA25?logo=openSUSE&logoColor=white">
+  </p>
+</th>
+<th width="33.33333333%">
+  <h2 align="center">
+  Other Editors:
   </h2>
   <p align="center">
     <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=white">
-    <img alt="NeoVim"  src="https://img.shields.io/badge/NeoVim-57A143?logo=NeoVim&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-blue?logo=VS%20Code&logoColor=white">
+    <img alt="Helix" src="https://img.shields.io/badge/Helix-281733?logo=Helix&logoColor=white">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-blue?logo=dotnet&logoColor=white">
+    <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnuemacs&logoColor=white">
   </p>
 </th>
 </tr>
 <tr>
 <th width="33.33333333%">
   <h2 align="center">
-  Learning:
+  Other Used Tools:
   </h2>
   <p align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-3BABC3?logo=Flask&logoColor=white">
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
+    <img alt="ReGeX" src="https://img.shields.io/badge/ReGeX-orange?logo=ReGeX&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
+  </p>
+</th>
+<th width="33.33333333%">
+  <h2 align="center">
+  Still Learning / Known:
+  </h2>
+  <p align="center">
+    <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white">
-    <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=Emacs&logoColor=white">
+    <img alt="COBOL" src="https://img.shields.io/badge/COBOL-steelblue?logo=gnu&logoColor=white">
+    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=Haskell&logoColor=white">
     <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
   </p>
@@ -103,23 +147,8 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   Wishing to learn:
   </h2>
   <p align="center">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=Arch%20Linux&logoColor=white">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white">
     <img alt="ForTran" src="https://img.shields.io/badge/ForTran-734F96?logo=ForTran&logoColor=white">
-  </p>
-</th>
-<th width="33.33333333%">
-  <h2 align="center">
-  Other Preferred Tools:
-  </h2>
-  <p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
-    <img alt="ReGeX" src="https://img.shields.io/badge/ReGeX-orange?logo=ReGeX&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
   </p>
 </th>
 </tr>
@@ -191,4 +220,5 @@ For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>
 Unclear or strange interactions will likely be blocked.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the intended means of communication.
+
 
