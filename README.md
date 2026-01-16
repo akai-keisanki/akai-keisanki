@@ -87,8 +87,10 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     </h2>
     <p align="center">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white">
-    <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+    <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
     </p>
 </th>
 <th width="33.33333333%">
@@ -134,8 +136,6 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   Still Learning / Known:
   </h2>
   <p align="center">
-    <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
     <img alt="COBOL" src="https://img.shields.io/badge/COBOL-steelblue?logo=gnu&logoColor=white">
     <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=Haskell&logoColor=white">
     <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white">
@@ -221,5 +221,6 @@ For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>
 Unclear or strange interactions will likely be blocked and/or reported.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the internally intended means of communication.
+
 
 
