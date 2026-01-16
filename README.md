@@ -39,7 +39,7 @@
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
-Akai Keisanki (aka. 'Iago Alves Dias'/'Zìff') is a 2nd year high school student, self-taught in foreign languages and mathematics and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads and experience as a monitor and as a scholarship holder.
+Akai Keisanki (aka. Iago Alves Dias) is a 2nd year high school student, self-taught in foreign languages and mathematics and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads and experience as a monitor and as a scholarship holder.
 
 <h2>About This GitHub Page</h2>
 
@@ -220,3 +220,4 @@ For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>
 Unclear or strange interactions will likely be blocked.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the internally intended means of communication.
+
