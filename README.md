@@ -171,13 +171,10 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     
 <ul>
     <li>
-        ‎‍💼 Check <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> for most of his projects.
+        ‎‍💼 The GitHub page <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> contains most of his previous projects.
     </li>
     <li>
-        🎵 As the owner of the YouTube channel <a href='https://www.youtube.com/@akaikeisanki'>@akaikeisanki</a>, he is also a beginner musician, photographer and writer.
-    </li>
-    <li>
-        🤓 He also develops the fictional <a href='https://sites.google.com/view/lhyeish-union/'>Lhyeish Union</a>).
+        🎵 You can find some of his experimental music on his Bandcamp page <a href='https://akaikeisanki.bandcamp.com/'>akaikeisanki</a>.
     </li>
 </ul>
 
@@ -191,19 +188,23 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 <a href = 'https://www.linkedin.com/in/iago-alves-dias-4426a6269'>
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
 </a>
-<br><br>
+<br>
 <a href = 'https://bsky.app/profile/akaikeisanki.bsky.social'>
 <img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-@akaikeisanki.bsky.social-0285FF?logo=BlueSky&logoColor=white">
 </a>
-<br><br>
+<br>
 <a href = 'https://www.instagram.com/iago.ad'>
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@iago.ad-FF0069?logo=Instagram&logoColor=white">
 </a>
-<br><br>
+<br>
 <a href = 'https://akaikeisanki.bandcamp.com'>
 <img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-akaikeisanki-408294?logo=Bandcamp&logoColor=white">
 </a>
-<br><br>
+<br>
+<a href = 'https://www.youtube.com/@akaikeisanki'>
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-akaikeisanki-ff0133?logo=YouTube&logoColor=white">
+</a>
+<br>
 <a href = 'https://science52101.github.io'>
 <img alt="Science52101" src="https://img.shields.io/badge/Science52101%20Website-white?logo=Science52101&logoColor=white">
 </a>
@@ -217,7 +218,8 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 <h1>💬 Contact:</h1>
 
 For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>.
-Unclear or strange interactions will likely be blocked.
+Unclear or strange interactions will likely be blocked and/or reported.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the internally intended means of communication.
+
 
