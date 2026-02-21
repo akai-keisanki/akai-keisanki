@@ -17,7 +17,7 @@
 [    0.000000] Command line: BOOT_IMAGE=/ak/boot/x86_32-akai-keisanki-7.4.0-0-default [REDACTED]
 [    0.000000] Loading parameters --default --force --no-confirm --verbose
 [    0.000000] Loading default parameters Zipf 0 [REDACTED]
-[    0.000104] Installed languages: C, C++14, Rust, Python 3.12.3, Java 21.0.7, Node.js v18.19.1, NASM version 2.16.01
+[    0.000104] Installed languages: C, C++14, Rust, Python 3.12, Java 8, Node.js 22, MASM version 2.16 elf64
 [    0.000104] net: Initialized loopback interface
 [    0.000104] random: Initializing entropy pool
 [    0.000105] ak-update: Updating repositories from https://github.com/akai-keisanki/*
@@ -221,6 +221,7 @@ For quick contact, Akai Keisanki's Discord username is <code>akaikeisanki</code>
 Unclear or strange interactions will likely be blocked and/or reported.
 
 For anything important related to courses, projects or communities of which he participates, contact is made through the internally intended means of communication.
+
 
 
 
