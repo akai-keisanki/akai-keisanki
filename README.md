@@ -35,13 +35,13 @@
 
 <!-- This isn't the right code to judge -->
 
-<h2>About <code>akai-keisanki</code></h2>
+<h2>About <code>akai-keisanki</code> 👤</h2>
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
 Akai Keisanki (aka. Iago Alves Dias) is a 2nd year high school student, self-taught in foreign languages and mathematics and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads and experience as a monitor and as a scholarship holder.
 
-<h2>About This GitHub Page</h2>
+<h2>About This GitHub Page 🖥️</h2>
 
 This GitHub page currently works as a short portfolio and a public access to Zìff's favourite code scripts, which is really useful for downloading in other computers without logging in.
 
@@ -56,8 +56,8 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     Most Used Programming Languages:
     </h2>
     <p align="center">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
     </p>
 </th>
@@ -86,11 +86,11 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     Other Programming Languages:
     </h2>
     <p align="center">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
-    <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
+        <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+        <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
+        <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
     </p>
 </th>
 <th width="33.33333333%">
@@ -126,9 +126,10 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-3BABC3?logo=Flask&logoColor=white">
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
-    <img alt="RegEx" src="https://img.shields.io/badge/ReGeX-orange?logo=ReGeX&logoColor=white">
+    <img alt="RegEx" src="https://img.shields.io/badge/ReGeX-orange?logo=Regex&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
   </p>
 </th>
 <th width="33.33333333%">
@@ -154,13 +155,6 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 </tr>
 </table>
 
-<h1>📊 GitHub Stats:</h1>
-
-<p align='center' width='100%'>
-<img alt='Stats' height=170 src='https://github-readme-stats.vercel.app/api?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&count_private=true'>⠀
-<img alt='Top Languages' height=170 src='https://github-readme-stats.vercel.app/api/top-langs/?username=akai-keisanki&theme=default&show_icons=true&hide_border=false&layout=compact'>
-</p>
-
 <h1>📌 Content:</h1>
 
 <table>
@@ -184,6 +178,10 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
 
 <p align="center" justify-content='space-evenly'>
 
+<br>
+<a href = 'https://github.com/akai-keisanki'>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-Iago%20Alves%20Dias-white?logo=GitHub&logoColor=white">
+</a>
 <br>
 <a href = 'https://www.linkedin.com/in/iago-alves-dias-4426a6269'>
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iago%20Alves%20Dias-blue?logo=LinkedIn&logoColor=white">
