@@ -124,12 +124,13 @@ Please note that most of his projects are in <a href = 'https://github.com/Scien
   <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-3BABC3?logo=Flask&logoColor=white">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
     <img alt="RegEx" src="https://img.shields.io/badge/ReGeX-orange?logo=Regex&logoColor=white">
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-3BABC3?logo=Flask&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
   </p>
 </th>
 <th width="33.33333333%">
