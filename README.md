@@ -1,4 +1,9 @@
-<img src = 'https://raw.githubusercontent.com/akai-keisanki/akai-keisanki/refs/heads/All/ake_logo1_bg.png' alt = 'A.Ke. Logo' />
+<img src = 'https://raw.githubusercontent.com/akai-keisanki/akai-keisanki/refs/heads/All/ake_logo1_bg.png' alt = 'A.Ke. Logo' width = '100%'/>
+<p>
+<img src = 'https://img.shields.io/github/stars/akai-keisanki'>
+<img src = 'https://img.shields.io/github/followers/akai-keisanki'>
+<img src = 'https://img.shields.io/bluesky/followers/akaikeisanki.bsky.social'>
+</p>
 
 ```py
 /$ sudo akai-keisanki --boot -fyv
