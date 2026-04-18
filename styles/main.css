@@ -1,0 +1,213 @@
+*
+{
+	transition: 0.3s ease;
+}
+
+html, body
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background: #000 url(../img/background.webp) fixed;
+	background-size: max(100vw, 100vh) max(100vw, 100vh);
+	background-position: 50% 80%;
+}
+
+main
+{
+	background: transparent;
+	min-height: 90vh;
+
+	margin: 0;
+	padding: 1vh;
+
+	display: grid;
+	grid-template-areas: "nav" "content" "footer";
+	grid-template-rows: min-content auto min-content;
+	gap: 2vh;
+
+	justify-content: center;
+	align-content: center;
+}
+
+nav, #content, footer
+{
+	display: flex;
+
+	padding: 1vh;
+	gap: 1vh;
+
+	width: 90vw;
+	max-width: 130vh;
+
+	background: #fff7;
+	backdrop-filter: blur(3vh);
+
+	border-radius: 1.5vh;
+	border: solid 0.5vh #fff3;
+}
+
+nav, .navsect, footer
+{
+	display: flex;
+
+	flex-direction: row;
+
+	align-items: center;
+	justify-content: center;
+
+	flex-wrap: wrap;
+
+	padding: 1vh;
+}
+
+nav
+{
+	grid-area: nav;
+}
+
+#content
+{
+	flex-direction: column;
+	grid-area: content;
+
+	padding-bottom: 2vh;
+}
+
+footer
+{
+	grid-area: footer;
+}
+
+
+h1, h2, h3, h4, h5, h6, p, .link, button
+{
+	color: #000;
+	font-family: Lato, Helvetica, "Noto Sans", "Segoe UI", sans-serif;
+	line-height: 1.2em;
+	text-shadow: 0 0 1.5vh #fff6;
+}
+
+h1, h2, h3, h4, h5, h6, p
+{
+	margin: 0.5vh 1.5vh;
+}
+
+h1
+{
+	font-size: 5vh;
+	font-weight: 500;
+
+	border-bottom: solid 0.5vh #fff3;
+	box-shadow: 0 1vh 1vh #0001;
+}
+
+h2
+{
+	font-size: 3.5vh;
+	font-weight: 550;
+}
+
+h4
+{
+	font-size: 2.75vh;
+	font-weight: 700;
+}
+
+h6
+{
+	font-size: 1.75vh;
+	font-weight: 500;
+}
+
+p
+{
+	font-weight: 600;
+	font-size: 2.5vh;	
+}
+
+.pbox
+{
+	padding: 0.5vh 1.5vh;
+
+	border-left: solid 0.5vh #0006;
+	border-radius: 1vh;
+
+	background: #fff2;
+
+	box-shadow: 0 0 1.25vh #00000019;
+}
+
+.link
+{
+	text-decoration: underline;
+}
+
+h1:hover, h2:hover, h3:hover
+{
+	text-shadow: 0 0 1.5vh #fff4, 0 0 2vh #40f2;
+	letter-spacing: 0.1em;
+}
+
+h6:hover
+{
+	text-shadow: 0 0 1.5vh #fff4, 0 0 2vh #fff2;
+}
+
+.pbox:hover
+{
+	padding-left: 2vh;
+}
+
+.link:hover
+{
+	letter-spacing: 0.01em;
+	color: #408;
+
+	text-shadow: 0 0 1vh #fff4, 0 0 1vh #80f4;
+}
+
+
+button
+{
+	border: solid 0.33vh #fff3;
+	background: #fff2;
+
+	border-radius: 2vh;
+	padding: 1vh 1.5vh;
+	margin: 1vh;
+
+	font-weight: 600;
+	font-size: 2.25vh;	
+
+	box-shadow: 0 0 1.25vh #00000019;
+}
+
+button:hover
+{
+	font-weight: 700;
+	font-size: 2vh;	
+}
+
+
+.icon48
+{
+	width: 8vh;
+	height: 8vh;
+	border-radius: 100vh;
+}
+
+.icon16
+{
+	width: 2.66vh;
+	height: 2.66vh;
+	border-radius: 100vh;
+}
+
+.vspace
+{
+	width: 3vw;
+}
