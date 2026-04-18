@@ -49,7 +49,7 @@ nav, #content, footer
 	max-width: 130vh;
 
 	background: #fff7;
-	backdrop-filter: blur(3vh);
+	backdrop-filter: contrast(140%) blur(3vh);
 
 	border-radius: 1.5vh;
 	border: solid 0.5vh #fff3;
