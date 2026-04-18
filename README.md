@@ -39,18 +39,15 @@
 <h1>ℹ️ Welcome</h1>
 
 <!-- This isn't the right code to judge -->
-
 <h2>About <code>akai-keisanki</code> 👤</h2>
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
 Akai Keisanki (aka. Iago Alves Dias) is a 3rd year high school student, self-taught in mathematics, music and foreign languages and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads, experience as a monitor and as a scholarship holder.
 
-<h2>About This GitHub Page 🖥️</h2>
+This GitHub page currently works as a short portfolio and a public access to Akai Keisanki's projects, which is really useful in public computers.
 
-This GitHub page currently works as a short portfolio and a public access to Akai Keisanki's favourite code scripts, which is really useful for downloading in other computers without logging in.
-
-Please note that many of his old projects are available on <a href = 'https://github.com/Science52101'>Science52101's GitHub Page</a>.
+Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHub Pages portfolio</a>.
 
 <h1>🛠️ Used Tools</h1>
 
