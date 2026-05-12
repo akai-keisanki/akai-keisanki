@@ -68,8 +68,9 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
   Most Used Operating Systems:
   </h2>
   <p align="center">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=Fedora&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=dotnet&logoColor=white">
   </p>
 </th>
@@ -90,7 +91,6 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
     <p align="center">
         <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
-        <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
         <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
     </p>
@@ -100,7 +100,6 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
   Other Operating Systems:
   </h2>
   <p align="center">
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=Fedora&logoColor=white">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white">
     <img alt="openSUSE" src="https://img.shields.io/badge/openSUSE-73BA25?logo=openSUSE&logoColor=white">
   </p>
@@ -140,6 +139,9 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
   Still Learning / Known:
   </h2>
   <p align="center">
+    <img alt="Erlang" src="https://img.shields.io/badge/Erlang-A90533?logo=Erlang&logoColor=white">
+    <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?logo=Elixir&logoColor=white">
+    <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
     <img alt="COBOL" src="https://img.shields.io/badge/COBOL-steelblue?logo=gnu&logoColor=white">
     <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=Haskell&logoColor=white">
     <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white">
