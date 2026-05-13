@@ -47,7 +47,15 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
 ```json
 {
   "userName": "akai-keisanki",
-  "legalName": "Iago Alves Dias",
+  "personalInformation": {
+    "firstName": "Iago",
+    "lastName": "Alves Dias",
+    "nationality": "Brazilian",
+    "preferredLanguages": [
+      "english",
+      "brazilian portuguese"
+    ]
+  }
   "education": {
     "level": "high school",
     "year": 3,
@@ -56,20 +64,20 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
   "skills": {
     "programming": [
       "low-level programming",
-      "computation mathematics",
+      "computational mathematics",
       "experimental programming"
     ],
     "academicStrengths": [
       "exact sciences"
     ],
     "selfTaughtFields": [
-      "advanced mathematics",
+      "mathematics",
       "music",
       "linguistics"
     ]
   },
   "achievements": {
-    "scientificOlympiadMedals": [
+    "knowledgeOlympiadMedals": [
       {
         "olympiad": "Olimpíada Brasileira de Matemática das Escolas Públicas",
         "gold": 1,
@@ -90,7 +98,7 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
       }
     ],
     "experience": [
-      "monitor",
+      "teaching assistant",
       "scholarship holder"
     ]
   }
