@@ -40,11 +40,62 @@
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
-Akai Keisanki (aka. Iago Alves Dias) is a 3rd year high school student, self-taught in mathematics, music and foreign languages and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads, experience as a monitor and as a scholarship holder.
-
 This GitHub page currently works as a short portfolio and a public access to Akai Keisanki's projects, which is really useful in public computers.
 
 Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHub Pages portfolio</a>.
+
+```json
+{
+  "userName": "akai-keisanki",
+  "legalName": "Iago Alves Dias",
+  "education": {
+    "level": "high school",
+    "year": 3,
+    "status": "enrolled"
+  },
+  "skills": {
+    "programming": [
+      "low-level programming",
+      "computation mathematics",
+      "experimental programming"
+    ],
+    "academicStrengths": [
+      "exact sciences"
+    ],
+    "selfTaughtFields": [
+      "advanced mathematics",
+      "music",
+      "linguistics"
+    ]
+  },
+  "achievements": {
+    "scientificOlympiadMedals": [
+      {
+        "olympiad": "Olimpíada Brasileira de Matemática das Escolas Públicas",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      },
+      {
+        "olympiad": "Olimpíada Brasileira de Astronomia e Astronáutica",
+        "gold": 4,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "olympiad": "Olimpíada Nacional de Astronomia Digital",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ],
+    "experience": [
+      "monitor",
+      "scholarship holder"
+    ]
+  }
+}
+```
 
 <h1>🛠️ Used Tools</h1>
 
