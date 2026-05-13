@@ -36,10 +36,7 @@
 [    3.246675] x86_32-akai-keisanki: Virtual kernel successfully initialized
 ```
 
-<h1>ℹ️ Welcome</h1>
-
-<!-- This isn't the right code to judge -->
-<h2>About <code>akai-keisanki</code> 👤</h2>
+<h1>👤 Welcome</h1>
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
