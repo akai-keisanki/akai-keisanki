@@ -47,6 +47,7 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
 ```json
 {
   "userName": "akai-keisanki",
+
   "personalInformation": {
     "firstName": "Iago",
     "lastName": "Alves Dias",
@@ -55,12 +56,14 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
       "english",
       "brazilian portuguese"
     ]
-  }
+  },
+
   "education": {
     "level": "high school",
     "year": 3,
     "status": "enrolled"
   },
+
   "skills": {
     "programming": [
       "low-level programming",
@@ -76,6 +79,7 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
       "linguistics"
     ]
   },
+
   "achievements": {
     "knowledgeOlympiadMedals": [
       {
