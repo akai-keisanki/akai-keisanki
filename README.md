@@ -55,106 +55,108 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
 <tr>
 <th width="33.33333333%"> 
     <h2 align="center">
-    Most Used Programming Languages:
+      Preferred programming languages:
     </h2>
     <p align="center">
-    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
     </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Most Used Operating Systems:
+      Preferred operating systems:
   </h2>
   <p align="center">
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=Fedora&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=dotnet&logoColor=white">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Most Used Editors:
+    Preferred editors:
   </h2>
   <p align="center">
-    <img alt="NeoVim"  src="https://img.shields.io/badge/NeoVim-57A143?logo=NeoVim&logoColor=white">
+    <img alt="NeoVim"  src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
   </p>
 </th>
 </tr>
 <tr>
 <th width="33.33333333%"> 
-    <h2 align="center">
-    Other Programming Languages:
-    </h2>
-    <p align="center">
-        <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
-        <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
-    </p>
-</th>
-<th width="33.33333333%">
   <h2 align="center">
-  Other Operating Systems:
+     Preferred frameworks
   </h2>
   <p align="center">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white">
-    <img alt="openSUSE" src="https://img.shields.io/badge/openSUSE-73BA25?logo=openSUSE&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82">
   </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Other Editors:
+      Other operating systems:
   </h2>
   <p align="center">
-    <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=white">
-    <img alt="Helix" src="https://img.shields.io/badge/Helix-281733?logo=Helix&logoColor=white">
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-blue?logo=dotnet&logoColor=white">
-    <img alt="Emacs" src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnuemacs&logoColor=white">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+    <img alt="openSUSE" src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white">
+  </p>
+</th>
+<th width="33.33333333%">
+  <h2 align="center">
+      Other used editors and IDEs:
+  </h2>
+  <p align="center">
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
+    <img alt="Helix" src="https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white">
   </p>
 </th>
 </tr>
 <tr>
 <th width="33.33333333%">
   <h2 align="center">
-  Other Used Tools:
+      Other used languages:
   </h2>
   <p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
-    <img alt="RegEx" src="https://img.shields.io/badge/ReGeX-orange?logo=Regex&logoColor=white">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-3BABC3?logo=Flask&logoColor=white">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white">
+    <img alt="RegEx" src="https://img.shields.io/badge/ReGeX-orange.svg?style=for-the-badge&logo=regex&logoColor=white">
+    <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
   </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Still Learning / Known:
+  Still learning / Known programming languages and tools:
   </h2>
   <p align="center">
-    <img alt="Erlang" src="https://img.shields.io/badge/Erlang-A90533?logo=Erlang&logoColor=white">
-    <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?logo=Elixir&logoColor=white">
-    <img alt="Gleam" src="https://img.shields.io/badge/Gleam-FFAFF3?logo=Gleam&logoColor=white">
-    <img alt="COBOL" src="https://img.shields.io/badge/COBOL-steelblue?logo=gnu&logoColor=white">
-    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?logo=Haskell&logoColor=white">
-    <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue?logo=Netwide%20Assembly&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
+    <img alt="Erlang" src="https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Maven" src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
+    <img alt="Gleam" src="https://img.shields.io/badge/gleam-%23FFAFF3.svg?style=for-the-badge&logo=gleam&logoColor=white">
+    <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
+    <img alt="COBOL" src="https://img.shields.io/badge/COBOL-steelblue.svg?style=for-the-badge&logo=gnu&logoColor=white">
+    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
+    <img alt="NAsm" src="https://img.shields.io/badge/NAsm-darkblue.svg?style=for-the-badge&logo=Netwide%20Assembly&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </p>
 </th>
 <th width="33.33333333%">
   <h2 align="center">
-  Wishing to learn:
+  Other used tools:
   </h2>
   <p align="center">
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white">
-    <img alt="ForTran" src="https://img.shields.io/badge/ForTran-734F96?logo=ForTran&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   </p>
 </th>
 </tr>
