@@ -49,7 +49,7 @@ nav, #content, footer
 	max-width: 130vh;
 
 	background: #fff7;
-	backdrop-filter: contrast(140%) blur(3vh);
+	backdrop-filter: contrast(133%) saturate(80%) blur(3vh);
 
 	border-radius: 1.5vh;
 	border: solid 0.5vh #fff3;
@@ -117,18 +117,20 @@ footer
 	justify-content: center;
 
 	flex-wrap: wrap;
+	flex-grow: 1;
 }
 
 
 h1, h2, h3, h4, h5, h6, p, .link, button
 {
 	color: #000;
-	font-family: Lato, Helvetica, "Noto Sans", "Segoe UI", sans-serif;
+	font-family: "Cascadia Code", "Menlo", "JetBrains Mono", "Noto Sans Mono", "Monaco", "Consolas", "Liberation Mono", Lato, Helvetica, "Noto Sans", "Segoe UI", sans-serif, monospace;
 	line-height: 1.2em;
-	text-shadow: 0 0 1.5vh #fff6;
+	text-shadow: 0 0 1.8vh #fff6;
+        outline: none;
 }
 
-h1, h2, h3, h4, h5, h6, p
+h2, h3, h4, h5, h6, p
 {
 	margin: 0.5vh 1.5vh;
 }
@@ -136,10 +138,14 @@ h1, h2, h3, h4, h5, h6, p
 h1
 {
 	font-size: 5vh;
-	font-weight: 500;
+	font-weight: 400;
 
-	border-bottom: solid 0.5vh #fff3;
-	box-shadow: 0 1.1vh 0.9vh #0000000a;
+	margin: 0.8vh 1.2vh;
+	padding: 0.4vh 1.7vh;
+        border-bottom: 0.4vh;
+
+	background-color: #fff3;
+	box-shadow: 0 1vh 1vh #00000008;
 }
 
 h2
@@ -168,20 +174,22 @@ h6
 
 p
 {
-	font-weight: 600;
+	font-weight: 500;
 	font-size: 2.5vh;	
+
+	flex-grow: 1;
 }
 
 .pbox
 {
-	padding: 0.5vh 1.5vh;
+	padding: 1vh 1.5vh;
 	padding-right: 2vh;
 	margin: 1vh;
 
 	border-left: solid 0.5vh #0006;
 	border-radius: 1vh;
 
-	background: #fff2;
+	background: #fff4;
 
 	box-shadow: 0 0 1.25vh #00000019;
 
@@ -196,15 +204,26 @@ p
 	text-decoration: underline;
 }
 
-h1:hover, h2:hover, h3:hover
+h1:hover
 {
-	text-shadow: 0 0 1.5vh #fff4, 0 0 2vh #40f2;
 	letter-spacing: 0.1em;
+
+	margin: 1.2vh 1.2vh;
+	padding: 0 1.7vh;
+}
+
+h2:hover
+{
+	letter-spacing: 0.08em;
+}
+
+h3:hover
+{
+	letter-spacing: 0.07em;
 }
 
 h6:hover
 {
-	text-shadow: 0 0 1.5vh #fff4, 0 0 2vh #fff2;
 }
 
 .pbox:hover
@@ -216,15 +235,13 @@ h6:hover
 .link:hover
 {
 	letter-spacing: 0.01em;
-
-    filter: invert(20%) sepia(100%) saturate(300%) hue-rotate(220deg);
 }
 
 
 button
 {
-	border: solid 0.33vh #fff3;
-	background: #fff2;
+	border: solid 0.5vh #0001;
+	background: #fff4;
 
 	border-radius: 2vh;
 	padding: 1vh 1.5vh;
@@ -247,8 +264,11 @@ button:hover
 {
 	padding: 1vh 2vh;
 	margin: 1vh 0.5vh;
+}
 
-	filter: invert(20%) brightness(120%) sepia(50%) saturate(300%) hue-rotate(220deg);
+.link:hover, button:hover
+{
+	filter: invert(20%) brightness(110%) sepia(100%) saturate(300%) hue-rotate(220deg);
 }
 
 
