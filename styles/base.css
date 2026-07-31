@@ -1,0 +1,55 @@
+html, body
+{
+	margin: 0;
+	padding: 0;
+}
+
+main
+{
+	display: grid;
+	grid-template-areas: "nav" "content" "footer";
+	grid-template-rows: min-content auto min-content;
+}
+
+nav
+{
+	grid-area: nav;
+}
+
+#content
+{
+	grid-area: content;
+}
+
+footer
+{
+	grid-area: footer;
+}
+
+.cols
+{
+	display: grid;
+	width: 100%;
+	grid-template-columns: repeat(auto-fit, minmax(37vh, 1fr));
+}
+
+.horiz
+{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+	flex-wrap: wrap;
+	flex-grow: 1;
+}
+
+.w90 {
+	width: 90%;
+}
+
+.w100 {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
