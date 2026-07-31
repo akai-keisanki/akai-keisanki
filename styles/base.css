@@ -31,6 +31,8 @@ footer
 	display: grid;
 	width: 100%;
 	grid-template-columns: repeat(auto-fit, minmax(37vh, 1fr));
+	align-items: stretch;
+	justify-items: stretch;
 }
 
 .horiz

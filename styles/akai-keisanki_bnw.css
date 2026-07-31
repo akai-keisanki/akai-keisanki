@@ -1,0 +1,251 @@
+*
+{
+	transition: 0.3s ease;
+}
+
+body
+{
+  background-color: #000;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+main
+{
+	background: transparent;
+	min-height: 90vh;
+
+	margin: 0;
+	padding: 1vh;
+
+	gap: 2vh;
+
+	justify-content: center;
+	align-content: center;
+}
+
+nav, #content, footer
+{
+	display: flex;
+
+	padding: 1vh;
+	gap: 1vh;
+
+	width: 90vw;
+	max-width: 130vh;
+
+	background: #fff;
+
+	border-radius: 1.5vh;
+	border: solid 0.5vh #0000;
+
+	box-shadow: 0 0.5vh 0 #000;
+}
+
+nav, .navsect, footer
+{
+	display: flex;
+
+	flex-direction: row;
+
+	align-items: center;
+	justify-content: center;
+
+	flex-wrap: wrap;
+
+	padding: 1vh;
+}
+
+#content
+{
+	flex-direction: column;
+
+	padding-bottom: 2vh;
+}
+
+
+.cols
+{
+	gap: 1vh;
+}
+
+.col
+{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: start;
+
+	padding: 1vh;
+	gap: 1vh;
+}
+
+
+h1, h2, h3, h4, h5, h6, p, .link, button
+{
+	color: #000;
+	font-family: "Cascadia Code", "Menlo", "JetBrains Mono", "Noto Sans Mono", "Monaco", "Consolas", "Liberation Mono", Lato, Helvetica, "Noto Sans", "Segoe UI", sans-serif, monospace;
+	line-height: 1.2em;
+        outline: none;
+}
+
+h2, h3, h4, h5, h6, p
+{
+	margin: 0.5vh 1.5vh;
+}
+
+h1
+{
+	font-size: 5vh;
+	font-weight: 400;
+
+	margin: 0.8vh 1.2vh;
+}
+
+h2
+{
+	font-size: 3.5vh;
+	font-weight: 700;
+}
+
+h3
+{
+	font-size: 2.5vh;
+	font-weight: 1000;
+}
+
+h4
+{
+	font-size: 2.75vh;
+	font-weight: 700;
+}
+
+h6
+{
+	font-size: 1.75vh;
+	font-weight: 500;
+}
+
+p
+{
+	font-weight: 500;
+	font-size: 2.5vh;	
+
+	flex-grow: 1;
+}
+
+.pbox
+{
+	padding: 1vh 1.5vh;
+	padding-right: 2vh;
+	margin: 1vh;
+
+	border: solid 0.5vh #000;
+	border-radius: 2vh;
+
+	background: #fff;
+
+	box-shadow: 0 0.5vh 0 #000;
+
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.link
+{
+	text-decoration: underline;
+}
+
+h1:hover
+{
+	letter-spacing: 0.1em;
+
+	margin: 1.2vh 1.2vh;
+	padding: 0 1.7vh;
+}
+
+.pbox:hover
+{
+}
+
+p:hover, .link:hover, h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover
+{
+  filter: contrast(50%);
+}
+
+
+button
+{
+	border: solid 0.5vh #000;
+	background: #fff;
+
+	border-radius: 2vh;
+	padding: 1vh 1.5vh;
+	margin: 1vh;
+
+	font-weight: 600;
+	font-size: 2.25vh;	
+
+	box-shadow: 0 0.5vh 0 #000;
+
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+	font-weight: 550;
+}
+
+button:hover
+{
+	border: 0vh;
+
+	margin: 1.5vh 1vh;
+	padding: 1vh 2vh;
+
+	box-shadow: 1vh 1vh 0 #000, -1vh -1vh 0 #000;
+}
+
+.link:hover, button:hover
+{
+}
+
+
+.icon48
+{
+	width: 8vh;
+	height: 8vh;
+	border-radius: 100vh;
+  filter: brightness(60%) contrast(1000%);
+  border: solid 0.5vh #000;
+}
+
+.icon16
+{
+	width: 2.66vh;
+	height: 2.66vh;
+	border-radius: 100vh;
+}
+
+.icontxt, .icontxtc
+{
+	width: 0.8em;
+	height: 0.8em;
+	/*border-radius: 100vh;*/
+    margin-right: 0.5vh;
+}
+
+.icontxt
+{
+    filter: contrast(1000%) saturate(0);
+}
+
+.vspace
+{
+	width: 3vw;
+}
