@@ -42,8 +42,10 @@ footer
 	align-items: center;
 	justify-content: center;
 
+        width: 100%;
+        height: auto;
+
 	flex-wrap: wrap;
-	flex-grow: 1;
 }
 
 .w90 {

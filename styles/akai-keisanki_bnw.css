@@ -137,7 +137,7 @@ p
 	flex-grow: 1;
 }
 
-.pbox
+.pbox, .albumbox
 {
 	padding: 1vh 1.5vh;
 	padding-right: 2vh;
@@ -152,8 +152,18 @@ p
 
 	display: flex;
 	flex-direction: column;
-	align-items: flex-start;
 	justify-content: space-between;
+}
+
+.pbox
+{
+	align-items: flex-start;
+}
+
+.albumbox
+{
+        align-items: center;
+        text-align: center;
 }
 
 .link
@@ -221,8 +231,8 @@ button:hover
 	width: 8vh;
 	height: 8vh;
 	border-radius: 100vh;
-  filter: brightness(60%) contrast(1000%);
-  border: solid 0.5vh #000;
+        filter: brightness(60%) contrast(1000%);
+        border: solid 0.5vh #000;
 }
 
 .icon16
@@ -237,7 +247,16 @@ button:hover
 	width: 0.8em;
 	height: 0.8em;
 	/*border-radius: 100vh;*/
-    margin-right: 0.5vh;
+        margin-right: 0.5vh;
+}
+
+.albumcover
+{
+        width: 30vh;
+        height: 30vh;
+	border-radius: 2vh;
+        border: solid 0.5vh #000;
+        margin: 1vh;
 }
 
 .icontxt
