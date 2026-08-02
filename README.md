@@ -42,7 +42,7 @@
 
 This GitHub page currently works as a short portfolio and a public access to Akai Keisanki's projects, which is really useful in public computers.
 
-Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHub Pages portfolio</a>.
+Please note his <a href = 'https://akaikeisanki.tngl.io'>brief portfolio website</a> (also available as a <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHub Pages website</a>).
 
 ```json
 {
@@ -247,7 +247,10 @@ Please note his <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHu
 
 <br>
 <a href = 'https://github.com/akai-keisanki'>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-Iago%20Alves%20Dias-white?logo=GitHub&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-akai-keisanki-white?logo=GitHub&logoColor=white">
+</a>
+<a href = 'https://tangled.org/akaikeisanki.bsky.social'>
+<img alt="Tangled" src="https://img.shields.io/badge/Tangled-akaikeisanki.bsky.social-white?logo=Tangled&logoColor=white">
 </a>
 <br>
 <a href = 'https://www.linkedin.com/in/iago-alves-dias-4426a6269'>
