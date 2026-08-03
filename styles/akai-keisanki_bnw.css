@@ -7,6 +7,11 @@
 body
 {
   background-color: #000;
+  background-image: linear-gradient(#0008, #000a), url('../img/bg_bid.png');
+  background-blend-mode: multiply, normal;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 
 a
@@ -95,6 +100,7 @@ h1, h2, h3, h4, h5, h6, p, .link, button
 h2, h3, h4, h5, h6, p
 {
 	margin: 0.5vh 1.5vh;
+        margin-bottom: 0;
 }
 
 h1
@@ -175,18 +181,6 @@ p
 .link
 {
 	text-decoration: underline;
-}
-
-h1:hover
-{
-	letter-spacing: 0.1em;
-
-	margin: 1.2vh 1.2vh;
-	padding: 0 1.7vh;
-}
-
-.pbox:hover
-{
 }
 
 p:hover, .link:hover, h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover
