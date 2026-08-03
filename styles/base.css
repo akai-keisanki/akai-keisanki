@@ -67,3 +67,7 @@ footer
         white-space: pre-wrap;
 }
 
+.breakchars
+{
+        word-break: break-all;
+}
