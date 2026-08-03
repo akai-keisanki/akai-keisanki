@@ -48,12 +48,22 @@ footer
 	flex-wrap: wrap;
 }
 
-.w90 {
+.w90
+{
 	width: 90%;
 }
 
-.w100 {
+.w100
+{
 	width: 90%;
 	margin-left: 5%;
 	margin-right: 5%;
 }
+
+.codepar
+{
+        width: 100%;
+        height: auto;
+        white-space: pre-wrap;
+}
+

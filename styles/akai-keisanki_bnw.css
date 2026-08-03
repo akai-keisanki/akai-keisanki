@@ -268,3 +268,17 @@ button:hover
 {
 	width: 3vw;
 }
+
+.codepar
+{
+        column-rule: 0.5vh solid #000;
+        display: block;
+        column-count: auto;
+        column-width: 40vh;
+        column-gap: 5vh;
+}
+
+.codepar:hover
+{
+        filter: none;
+}

@@ -3,6 +3,10 @@
 	<head>
 		<meta charset=utf-8>
 		<title>akai-keisanki • index</title>
+
+                <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/styles/github.css">
+                <script src="https://unpkg.com/@highlightjs/cdn-assets@11.11.1/highlight.min.js"></script>
+
 		<link rel=stylesheet href=styles/base.css>
 		<link rel=stylesheet href=styles/akai-keisanki_bnw.css>
 	</head>
@@ -28,6 +32,71 @@
                                           <p>
                                                   Akai Keisanki (aka. Iago Alves Dias) is a 3rd year high school student, self-taught in mathematics, music and foreign languages and a programmer focused on low-level tasks, experimenting and mathematical applications whose aptitude for exact sciences provided oportunities such as medals in knowledge olympiads, experience as a monitor and as a scholarship holder.
                                           </p>
+				</div>
+
+				<div class=pbox>
+                                          <p class='codepar language-json'>{
+  "userName": "akai-keisanki",
+
+  "personalInformation": {
+    "firstName": "Iago",
+    "lastName": "Alves Dias",
+    "nationality": "Brazilian",
+    "preferredLanguages": [
+      "english",
+      "brazilian portuguese"
+    ]
+  },
+
+  "education": {
+    "level": "high school",
+    "year": 3,
+    "status": "enrolled"
+  },
+
+  "skills": {
+    "programming": [
+      "low-level programming",
+      "computational mathematics",
+      "experimental programming"
+    ],
+    "academicStrengths": [
+      "exact sciences"
+    ],
+    "selfTaughtFields": [
+      "mathematics",
+      "music",
+      "linguistics"
+    ]
+  },
+
+  "achievements": {
+    "knowledgeOlympiadMedals": [
+      {
+        "olympiad": "Olimpíada Brasileira de Matemática das Escolas Públicas",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      },
+      {
+        "olympiad": "Olimpíada Brasileira de Astronomia e Astronáutica",
+        "gold": 4,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "olympiad": "Olimpíada Nacional de Astronomia Digital",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      }
+    ],
+    "experience": [
+      "teaching assistant",
+      "scholarship holder"
+    ]
+  }
+}</p>
 				</div>
 
 				<h2>Links</h2>
@@ -73,5 +142,11 @@
 				</h4>
 			</footer>
 		</main>
+
+        <script>
+                document.querySelectorAll('.codepar').forEach((block) => {
+                        hljs.highlightElement(block);
+                });
+        </script>
 	</body>
 </html>
