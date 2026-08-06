@@ -45,8 +45,8 @@ nav, #content, footer
 
 	background: #fff;
 
-	border-radius: 1.5vh;
-	border: solid 0.5vh #0000;
+	border-radius: 2vh;
+	border: solid 0.5vh #000;
 
 	box-shadow: 0 0.5vh 0 #000;
 }
