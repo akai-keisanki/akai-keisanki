@@ -40,7 +40,7 @@
 
 赤い計算機 (Akai Keisanki) means "red calculator" in japanese and was chosen entropically by the end of 2023.
 
-This GitHub page currently works as a short portfolio and a public access to Akai Keisanki's projects, which is really useful in public computers.
+This page currently works as a short portfolio and a public access to Akai Keisanki's projects, which is really useful in public computers.
 
 Please note his <a href = 'https://akaikeisanki.tngl.io'>brief portfolio website</a> (also available as a <a href = 'https://akai-keisanki.github.io/akai-keisanki/'>GitHub Pages website</a>).
 
@@ -232,10 +232,10 @@ Please note his <a href = 'https://akaikeisanki.tngl.io'>brief portfolio website
     
 <ul>
     <li>
-        ‎‍💼 The GitHub page <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> contains most of his previous projects.
+        <a href = 'https://github.com/Science52101'>Science52101's GitHub page</a> contains most of his previous projects.
     </li>
     <li>
-        🎵 You can find some of his experimental music on his Bandcamp page <a href='https://akaikeisanki.bandcamp.com/'>akaikeisanki</a>.
+        You can find some of his experimental music on his Bandcamp page <a href='https://akaikeisanki.bandcamp.com/'>akaikeisanki</a>.
     </li>
 </ul>
 
@@ -246,11 +246,20 @@ Please note his <a href = 'https://akaikeisanki.tngl.io'>brief portfolio website
 <p align="center" justify-content='space-evenly'>
 
 <br>
-<a href = 'https://github.com/akai-keisanki'>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-akai-keisanki-white?logo=GitHub&logoColor=white">
+<a href = 'https://akaikeisanki.tngl.io'>
+<img alt="brief portfolio" src="https://img.shields.io/badge/Brief%20Portfolio-white?logoColor=white">
 </a>
+<br>
+<a href = 'https://github.com/akai-keisanki'>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-akai--keisanki-white?logo=GitHub&logoColor=white">
+</a>
+<br>
 <a href = 'https://tangled.org/akaikeisanki.bsky.social'>
 <img alt="Tangled" src="https://img.shields.io/badge/Tangled-akaikeisanki.bsky.social-white?logo=Tangled&logoColor=white">
+</a>
+<br>
+<a href = 'https://neps.academy/br/user/32495'>
+<img alt="Neps Academy" src="https://img.shields.io/badge/Neps%20Academy-Iago%20Alves%20Dias-red?logo=Neps%20Academy&logoColor=white">
 </a>
 <br>
 <a href = 'https://www.linkedin.com/in/iago-alves-dias-4426a6269'>
