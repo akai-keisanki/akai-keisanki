@@ -277,12 +277,18 @@ button:hover
 	width: 3vw;
 }
 
+.codeparblock, .codepar
+{
+        background-color: #000;
+        color: #fff;
+}
+
 .codepar
 {
         column-rule: 0.5vh solid #000;
         display: block;
         column-count: auto;
-        column-width: 40vh;
+        column-width: 60vh;
         column-gap: 5vh;
 }
 

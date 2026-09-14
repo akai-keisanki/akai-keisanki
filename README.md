@@ -59,22 +59,28 @@ Please note his <a href = 'https://akaikeisanki.tngl.io'>brief portfolio website
   },
 
   "education": {
-    "level": "high school",
+    "level": "highschool",
     "year": 3,
     "status": "enrolled"
   },
 
-  "skills": {
+  "hardSkills": {
     "programming": [
       "low-level programming",
       "computational mathematics",
       "experimental programming"
     ],
+    "mathematics": [
+      "highschool mathematics",
+      "computational mathematics",
+      "basic linear algebra",
+      "basic calculus"
+    ],
     "academicStrengths": [
       "exact sciences"
     ],
     "selfTaughtFields": [
-      "mathematics",
+      "advanced mathematics",
       "music",
       "linguistics"
     ]
@@ -83,28 +89,48 @@ Please note his <a href = 'https://akaikeisanki.tngl.io'>brief portfolio website
   "achievements": {
     "knowledgeOlympiadMedals": [
       {
-        "olympiad": "Olimpíada Brasileira de Matemática das Escolas Públicas",
-        "gold": 1,
-        "silver": 0,
-        "bronze": 2
+        "olympiadName": "Olimpíada Brasileira de Matemática das Escolas Públicas",
+        "goldCount": 1,
+        "silverCount": 0,
+        "bronzeCount": 2
       },
       {
-        "olympiad": "Olimpíada Brasileira de Astronomia e Astronáutica",
-        "gold": 4,
-        "silver": 0,
-        "bronze": 0
+        "olympiadName": "Olimpíada Brasileira de Astronomia e Astronáutica",
+        "goldCount": 4,
+        "silverCount": 0,
+        "bronzeCount": 0
       },
       {
-        "olympiad": "Olimpíada Nacional de Astronomia Digital",
-        "gold": 0,
-        "silver": 1,
-        "bronze": 0
+        "olympiadName": "Olimpíada Nacional de Astronomia Digital",
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 0
       }
     ],
     "experience": [
       "teaching assistant",
       "scholarship holder"
     ]
+  },
+
+  "artisticSkills": {
+    "music": {
+      "experience": "hobbish",
+      "genres": [
+        "experimental",
+        "jazz fusion",
+        "digital",
+        "progressive"
+      ]
+    },
+    "graphical": {
+      "experience": "hobbish",
+      "genres": [
+        "album covers",
+        "conceptual photography",
+        "user interface design"
+      ]
+    }
   }
 }
 ```
