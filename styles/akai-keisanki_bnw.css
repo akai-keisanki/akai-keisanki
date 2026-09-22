@@ -4,6 +4,13 @@
 	transition: 0.3s ease;
 }
 
+*::selection
+{
+	background: #000;
+	color: #fff;
+	text-shadow: 0 0 1em  #000;
+}
+
 body
 {
   background-color: #000;
@@ -43,7 +50,8 @@ nav, #content, footer
 	width: 90vw;
 	max-width: 130vh;
 
-	background: #fff;
+	background: #fffc;
+	backdrop-filter: brightness(170%) saturate(150%) contrast(110%) blur(3vh);
 
 	border-radius: 2vh;
 	border: solid 0.5vh #000;
@@ -101,6 +109,11 @@ h2, h3, h4, h5, h6, p
 {
 	margin: 0.5vh 1.5vh;
         margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	text-shadow: 0 -2px 0 #fff, 0 2px 0 #ccc;
 }
 
 h1
@@ -281,6 +294,16 @@ button:hover
 {
         background-color: #000;
         color: #fff;
+        filter: brightness(200%) contrast(150%);
+}
+
+
+
+.codeparblock::selection, .codepar::selection, .codeparblock *::selection
+{
+	background: #fff;
+	color: #000;
+	text-shadow: 0 0 1em  #fff;
 }
 
 .codepar
