@@ -14,8 +14,9 @@
 body
 {
   background-color: #000;
-  background-image: linear-gradient(#0008, #000a), url('../img/bg_bid.png');
-  background-blend-mode: multiply, normal;
+/*background-image: linear-gradient(#0008, #000a), url('../img/bg_bid.png');
+  background-blend-mode: multiply, normal;*/
+  background-image: url('../img/bg_flashlight.png');
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -50,8 +51,10 @@ nav, #content, footer
 	width: 90vw;
 	max-width: 130vh;
 
-	background: #fffc;
-	backdrop-filter: brightness(170%) saturate(150%) contrast(110%) blur(3vh);
+	/*background: #fffc;
+	  backdrop-filter: brightness(170%) saturate(150%) contrast(110%) blur(3vh);*/
+	background: #fffa;
+	backdrop-filter: brightness(170%) saturate(150%) contrast(110%) blur(1vh);
 
 	border-radius: 2vh;
 	border: solid 0.5vh #000;
