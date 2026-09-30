@@ -53,7 +53,7 @@ nav, #content, footer
 
 	/*background: #fffc;
 	  backdrop-filter: brightness(170%) saturate(150%) contrast(110%) blur(3vh);*/
-	background: #fffa;
+	background: #fff8;
 	backdrop-filter: brightness(170%) saturate(150%) contrast(110%) blur(1vh);
 
 	border-radius: 2vh;
@@ -174,7 +174,7 @@ p
 	border: solid 0.5vh #000;
 	border-radius: 2vh;
 
-	background: #fff;
+	background: #fff8;
 
 	box-shadow: 0 0.5vh 0 #000;
 
@@ -207,9 +207,9 @@ p:hover, .link:hover, h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover
 
 button
 {
-        border: none;
+  border: none;
 	outline: solid 0.5vh #000;
-	background: #fff;
+	background: #fff8;
 
 	border-radius: 100vh;
 	padding: 1vh 1.5vh;
@@ -293,9 +293,18 @@ button:hover
 	width: 3vw;
 }
 
+.codeparblock
+{
+        background-color: #000000d8;
+}
+
+.codepar
+{
+				background-color: #0000;
+}
+
 .codeparblock, .codepar
 {
-        background-color: #000;
         color: #fff;
         filter: brightness(200%) contrast(150%);
 }
